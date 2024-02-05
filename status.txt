@@ -1,0 +1,3 @@
+200  todo fresco
+404  not found
+201  algo se creó
