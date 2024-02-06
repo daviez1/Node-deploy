@@ -1,0 +1,3 @@
+text/plain : txt
+application/ json :json
+application/ csv :Archivo delimitado por comas
